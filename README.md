@@ -12,4 +12,4 @@ while true:
 
     atbilde = input ("Vai tu gribi spēlēt vēlreiz? (j/n): ")
     if atbilde.lower  () != "j":
-        brea
+        break
